@@ -31,12 +31,26 @@ Team
 - [Manjunath](https://github.com/Manjunath-BV23)
 - [Saniya Zehra](https://github.com/Saniyzehra123)
 - [Vaibhav Solanki](https://github.com/Vaibhav-Solanki)
+# Screen short
+
+ 
+
+<img src="https://user-images.githubusercontent.com/96076158/158644345-751dfef6-85d9-49f3-b755-a29ed34405dd.png" />
+<img src="https://user-images.githubusercontent.com/96076158/158644663-99c084ee-dc28-4a6f-ad74-5e43e7c50e30.png" />
+<img src="https://user-images.githubusercontent.com/96076158/158644151-474428d8-6b67-4084-a39b-a5e4c688f3fb.png" />
+ 
+
+
+
+
 ## Install process
 
 ```bash
 npm install
 npm start
 ```
+ 
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
