@@ -12,7 +12,6 @@ an online store as well.
 - HTML
 - CSS
 - Javascript
-- React
 - Node
 - MongoDB
 ## Areas of responsibility
